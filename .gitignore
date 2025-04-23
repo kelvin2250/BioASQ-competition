@@ -1,0 +1,10 @@
+# Ignore all processed data
+data/processed/
+data/raw/
+
+# Ignore all model weights
+*.pt
+*.safetensors
+*.bin
+*.zip
+
